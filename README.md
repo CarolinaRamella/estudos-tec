@@ -1,2 +1,2 @@
 # estudos-tec
-Estudos
+Aprendendo a criar sites. Bora gerenciar os repositórios.
